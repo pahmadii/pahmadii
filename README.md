@@ -19,8 +19,9 @@ Welcome to my GitHub profile! I'm a **Junior Backend Developer** passionate abou
   Scalable backend for e-commerce platforms with Node.js, Express, and MongoDB.
 - 🔗 [Task Manager App](https://github.com/pahmadii/task-manager)  
   A RESTful API for managing tasks using NODEJS and MONGODB,EXPRESS
-  - 🔗 [auth project][(https://github.com/pahmadii/register-login-API-Node.js.git)
-  A RESTful API for managing tasks using NODEJS and MONGODB,EXPRESS
+  - 🔗 [auth project](https://github.com/pahmadii/register-login-API-Node.js.git)
+  - backend for login&register platforms with Node.js, Express, and MongoDB.
+
   
 
 ## 💬 Let's Connect!
